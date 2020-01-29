@@ -9,7 +9,6 @@ C:\Users\carlz\source\repos\Student\Student\obj\Debug\MainWindow.baml
 C:\Users\carlz\source\repos\Student\Student\obj\Debug\Student.g.resources
 C:\Users\carlz\source\repos\Student\Student\obj\Debug\Student.Properties.Resources.resources
 C:\Users\carlz\source\repos\Student\Student\obj\Debug\Student.csproj.GenerateResource.cache
-C:\Users\carlz\source\repos\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
 C:\Users\carlz\source\repos\Student\Student\obj\Debug\Student.exe
 C:\Users\carlz\source\repos\Student\Student\obj\Debug\Student.pdb
 C:\Users\carlz\source\repos\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache

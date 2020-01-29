@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Student"
         mc:Ignorable="d"
-        Title="Student Helper" Height="226.364" Width="250">
+        Title="Student Helper" Height="300" Width="275">
     <Grid>
         <Button Content="Gecme Notu Hesapla" HorizontalAlignment="Left" Margin="60,60,0,0" VerticalAlignment="Top" Width="125" Click="GecmeNotuHesapla"/>
         <Button Content="Ortalama Hesapla" HorizontalAlignment="Left" Margin="60,112,0,0" VerticalAlignment="Top" Width="125" Click="ortalamaHesapla"/>
